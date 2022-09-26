@@ -1,0 +1,7 @@
+Host = ec2-3-219-19-205.compute-1.amazonaws.com
+Database = d227emu23fuijm
+User = dinbyhssfakwna
+Port = 5432
+Password = 59e680329d52a4c94e0d9dad6f27b4bb76a35f56c60f69bee36d3eba6fc3a818
+URI = postgres://dinbyhssfakwna:59e680329d52a4c94e0d9dad6f27b4bb76a35f56c60f69bee36d3eba6fc3a818@ec2-3-219-19-205.compute-1.amazonaws.com:5432/d227emu23fuijm
+Heroku CLI = heroku pg:psql postgresql-polished-54157 --app odoodeploy
